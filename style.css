@@ -1,0 +1,70 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+   
+          box-sizing: border-box;
+}
+body {
+    background-color: #3e606f;
+    font-family: 'Quicksand', sans-serif;
+}
+.wrapper {
+    margin: 0 auto;
+    width: 800px;
+    height: 500px;
+    background-image: url("images/TV.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    width: 600px;
+    margin-left: 100px;
+    padding-top: 80px;
+}
+#timer {
+    float: right;
+}
+#start{
+    text-align: center;
+    padding-top: 20px;
+}
+.title-1 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: verdana;
+}
+.title-2 {
+    color: #0f1ef0;
+    font-weight: 700;
+}
+.control{
+    height: 430px;
+}
+#question {
+    margin-top: 40px;
+    text-align: center;
+}
+#questionText {
+    font-weight: 700;
+    font-size: 20px;
+}
+ul {
+    padding-left: 0px;
+    margin: 0;
+}
+.answer {
+    border: 1px solid black;
+    cursor: pointer;
+    margin: 20px;
+    padding: 5px;
+
+}
+img#serieImage {
+    width: 300px;
+    padding-top: 20px;
+}
+#points {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 35px;
+}

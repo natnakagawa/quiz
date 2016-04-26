@@ -1,0 +1,46 @@
+{
+	"javascript": [
+		{
+			"question": "What year did Breaking Bad Premiere?",
+			"answer1": "2007",
+			"answer2": "2008",
+			"answer3": "2009",
+			"image": "images/breakingbad.jpg",
+			"correct": 2
+		},
+		{
+			"question": "What year did Game of Thrones Premiere?",
+			"answer1": "2011",
+			"answer2": "2012",
+			"answer3": "2013",
+			"image": "images/gameofthrones.jpg",
+			"correct": 1
+		},
+		{
+			"question": "What year did Friends Premiere?",
+			"answer1": "1992",
+			"answer2": "1993",
+			"answer3": "1994",
+			"image": "images/friends.jpg",
+			"correct": 3
+		},
+		{
+			"question": "What year did Scrubs Premiere?",
+			"answer1": "2001",
+			"answer2": "2002",
+			"answer3": "2003",
+			"image": "images/scrubs.jpg",
+			"correct": 1
+		},
+		{
+			"question": "What year did House of Cards Premiere?",
+			"answer1": "2012",
+			"answer2": "2013",
+			"answer3": "2014",
+			"image": "images/houseofcards.jpg",
+			"correct": 2
+		}
+	],
+	"html": [],
+	"css": []
+}
